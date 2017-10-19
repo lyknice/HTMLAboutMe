@@ -1,0 +1,62 @@
+body {
+    background-color: orangered;
+    align-content: center;
+    border-style: solid;
+}
+h1 {
+    color: yellow;
+    align-content: center;
+     font-family: verdana;
+    font-size: 100%;
+    
+}
+
+h2 {
+    color: green;
+    align-content: center;
+     font-family: verdana;
+    font-size: 300%;
+    border-style: dotted
+}
+p {
+    color: black;   
+    font-family: comicsans;
+    align-content: center;
+    font-size: 120%;
+    
+
+    
+}
+
+p2 {
+    color: black;   
+    font-family: courier;
+    align-content: center;
+    font-size: 120%;
+    
+
+    
+}
+
+p3 {
+    color: black;   
+    font-family: fantasy;
+    align-content: center;
+    font-size: 100%;
+   
+
+    
+}
+
+img {
+    align-content: center;
+    border-style: double;
+    
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    
+    padding: 10px;
+}
