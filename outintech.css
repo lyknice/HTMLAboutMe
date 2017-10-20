@@ -2,20 +2,25 @@ body {
     background-color: orangered;
     align-content: center;
     border-style: solid;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
+
 h1 {
     color: yellow;
     align-content: center;
      font-family: verdana;
-    font-size: 100%;
+    font-size: 70%;
     
 }
 
 h2 {
-    color: green;
+    color: yellow;
     align-content: center;
      font-family: verdana;
-    font-size: 300%;
+    font-size: 70%;a
     border-style: dotted
 }
 p {
@@ -56,6 +61,13 @@ img {
 
 .content {
     max-width: 500px;
+    margin: auto;
+    
+    padding: 10px;
+}
+
+content2 {
+    max-width: 1500px;
     margin: auto;
     
     padding: 10px;
