@@ -55,8 +55,16 @@ p3 {
 
 img {
     align-content: center;
-    border-style: double;
-    
+    border-style: double;   
+    width:100%;
+    height:100%;
+    transition: opacity 5s;
+
+}
+
+img:hover{
+    opacity: .4;
+    transition: opacity 5s;
 }
 
 .content {
